@@ -149,3 +149,4 @@ obj/
 # .gitignore
 obj/
 bin/
+appsettings.json
