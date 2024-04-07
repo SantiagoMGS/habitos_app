@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("habitos_app.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b75c3cb49d2e92489d94c1215576c2dbd802554")]
 [assembly: System.Reflection.AssemblyProductAttribute("habitos_app.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("habitos_app.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
