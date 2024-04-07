@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SantiagodMG\\Documents\\Universidad\\Programacion\\habitos_app\\habitos_app.Web\\habitos_app.Web.csproj",
+      "projectUniqueName": "C:\\Users\\SantiagodMG\\Documents\\Personal\\Universidad\\Programacion\\habitos_app\\habitos_app.Web\\habitos_app.Web.csproj",
       "projectName": "habitos_app.Web",
-      "projectPath": "C:\\Users\\SantiagodMG\\Documents\\Universidad\\Programacion\\habitos_app\\habitos_app.Web\\habitos_app.Web.csproj",
+      "projectPath": "C:\\Users\\SantiagodMG\\Documents\\Personal\\Universidad\\Programacion\\habitos_app\\habitos_app.Web\\habitos_app.Web.csproj",
       "packagesPath": "C:\\Users\\SantiagodMG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SantiagodMG\\Documents\\Universidad\\Programacion\\habitos_app\\habitos_app.Web\\obj\\",
+      "outputPath": "C:\\Users\\SantiagodMG\\Documents\\Personal\\Universidad\\Programacion\\habitos_app\\habitos_app.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SantiagodMG\\AppData\\Roaming\\NuGet\\NuGet.Config",
