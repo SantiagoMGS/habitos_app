@@ -150,3 +150,10 @@ obj/
 obj/
 bin/
 appsettings.json
+habitos_app.Web.AssemblyInfo.cs
+habitos_app.Web.AssemblyInfoInputs.cache
+*.editorconfig
+*.cache
+*.cs
+*.json
+*.json
