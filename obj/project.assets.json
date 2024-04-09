@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\SantiagodMG\\.nuget\\packages\\": {}
+    "C:\\Users\\LSCR\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SantiagodMG\\Documents\\Universidad\\Programacion\\habitos_app\\habitos_app.Web\\habitos_app.Web.csproj",
+      "projectUniqueName": "C:\\Users\\LSCR\\Music\\variado u\\proyecto PG\\habitos_app\\habitos_app\\habitos_app.Web.csproj",
       "projectName": "habitos_app.Web",
-      "projectPath": "C:\\Users\\SantiagodMG\\Documents\\Universidad\\Programacion\\habitos_app\\habitos_app.Web\\habitos_app.Web.csproj",
-      "packagesPath": "C:\\Users\\SantiagodMG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SantiagodMG\\Documents\\Universidad\\Programacion\\habitos_app\\habitos_app.Web\\obj\\",
+      "projectPath": "C:\\Users\\LSCR\\Music\\variado u\\proyecto PG\\habitos_app\\habitos_app\\habitos_app.Web.csproj",
+      "packagesPath": "C:\\Users\\LSCR\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LSCR\\Music\\variado u\\proyecto PG\\habitos_app\\habitos_app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\SantiagodMG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LSCR\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

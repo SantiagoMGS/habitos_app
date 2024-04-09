@@ -1,12 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Controllers",
-    "\\Models",
-    "\\Views",
-    "\\Views\\Home",
-    "\\wwwroot\\js"
+    ""
   ],
-  "SelectedNode": "\\Views\\Home\\Index.cshtml",
+  "SelectedNode": "\\habitos_app.Web.csproj",
   "PreviewInSolutionExplorer": false
 }
